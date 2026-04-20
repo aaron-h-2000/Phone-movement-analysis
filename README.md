@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Language: R](https://img.shields.io/badge/Language-R-276DC3.svg)](https://www.r-project.org/)
 [![OSF](https://img.shields.io/badge/OSF-Repository-teal.svg)](https://doi.org/10.17605/OSF.IO/9D4R5)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1216376253.svg)](https://doi.org/10.5281/zenodo.19671897)
 
 This repository contains the R statistical analysis pipeline accompanying the paper:
 
@@ -110,7 +110,7 @@ install.packages(packages)
 All data, processed datasets, MATLAB extraction code, and supplementary materials are openly available at:
 
 **OSF:** [[https://osf.io/9d4r5/overview?view_only=98813d25748944cf87f0b20974073e46]([https://doi.org/10.17605/OSF.IO/9D4R5]
-**Zenodo:** [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+**Zenodo:** [https://doi.org/10.5281/zenodo.19671898](https://doi.org/10.5281/zenodo.19671898)
 
 ---
 
@@ -121,7 +121,7 @@ If you use this pipeline in your work, please cite:
 ```
 [Authors] (2026). Beyond Keystroke Metrics: A 3D Motion Capture Framework
 for Smartphone Typing Kinematics. [Journal].
-https://doi.org/10.5281/zenodo.XXXXXXX
+https://doi.org/10.5281/zenodo.19671898
 ```
 
 ---
